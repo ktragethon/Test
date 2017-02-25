@@ -4,5 +4,10 @@ Foran `inline` bak
 
 ## Avsnitt 2
 ``` csharp
-//Todo: Testing implementation of "Todo"
+        static void Main(string[] args)
+        {
+            //TODO: Implement something :-)
+            Console.WriteLine("Hello World! :-(");
+            Console.ReadLine();
+        }
 ```
