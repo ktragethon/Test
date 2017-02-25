@@ -11,6 +11,8 @@ namespace Test
         static void Main(string[] args)
         {
             //TODO: Implement something :-)
+            Console.WriteLine("Hello World! :-)");
+            Console.ReadLine();
         }
     }
 }
